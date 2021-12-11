@@ -1,0 +1,15 @@
+/Users/t.todorov/Projects/Files/Files/bin/Debug/netcoreapp3.1/Files.deps.json
+/Users/t.todorov/Projects/Files/Files/bin/Debug/netcoreapp3.1/Files.runtimeconfig.json
+/Users/t.todorov/Projects/Files/Files/bin/Debug/netcoreapp3.1/Files.runtimeconfig.dev.json
+/Users/t.todorov/Projects/Files/Files/bin/Debug/netcoreapp3.1/Files.dll
+/Users/t.todorov/Projects/Files/Files/bin/Debug/netcoreapp3.1/Files.pdb
+/Users/t.todorov/Projects/Files/Files/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/t.todorov/Projects/Files/Files/obj/Debug/netcoreapp3.1/Files.csproj.AssemblyReference.cache
+/Users/t.todorov/Projects/Files/Files/obj/Debug/netcoreapp3.1/Files.GeneratedMSBuildEditorConfig.editorconfig
+/Users/t.todorov/Projects/Files/Files/obj/Debug/netcoreapp3.1/Files.AssemblyInfoInputs.cache
+/Users/t.todorov/Projects/Files/Files/obj/Debug/netcoreapp3.1/Files.AssemblyInfo.cs
+/Users/t.todorov/Projects/Files/Files/obj/Debug/netcoreapp3.1/Files.csproj.CoreCompileInputs.cache
+/Users/t.todorov/Projects/Files/Files/obj/Debug/netcoreapp3.1/Files.csproj.CopyComplete
+/Users/t.todorov/Projects/Files/Files/obj/Debug/netcoreapp3.1/Files.dll
+/Users/t.todorov/Projects/Files/Files/obj/Debug/netcoreapp3.1/Files.pdb
+/Users/t.todorov/Projects/Files/Files/obj/Debug/netcoreapp3.1/Files.genruntimeconfig.cache

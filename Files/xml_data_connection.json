@@ -1,0 +1,114 @@
+[
+  {
+    "connection": "instance_effect",
+    "tag": "ColorEffectR87G120B204"
+  },
+  {
+    "connection": "instance_effect",
+    "tag": "Material__26__Plane001_"
+  },
+  {
+    "connection": "instance_effect",
+    "tag": "Material__25__Box001_"
+  },
+  {
+    "connection": "accessor",
+    "tag": "geom-Plane001-positions-array"
+  },
+  {
+    "connection": "accessor",
+    "tag": "geom-Plane001-normals-array"
+  },
+  {
+    "connection": "accessor",
+    "tag": "geom-Plane001-map1-array"
+  },
+  {
+    "connection": "accessor",
+    "tag": "geom-Plane001-map2-array"
+  },
+  {
+    "connection": "input",
+    "tag": "geom-Plane001-positions"
+  },
+  {
+    "connection": "input",
+    "tag": "geom-Plane001-vertices"
+  },
+  {
+    "connection": "input",
+    "tag": "geom-Plane001-normals"
+  },
+  {
+    "connection": "input",
+    "tag": "geom-Plane001-map1"
+  },
+  {
+    "connection": "input",
+    "tag": "geom-Plane001-map2"
+  },
+  {
+    "connection": "accessor",
+    "tag": "geom-Box001-positions-array"
+  },
+  {
+    "connection": "accessor",
+    "tag": "geom-Box001-normals-array"
+  },
+  {
+    "connection": "accessor",
+    "tag": "geom-Box001-map1-array"
+  },
+  {
+    "connection": "accessor",
+    "tag": "geom-Box001-map2-array"
+  },
+  {
+    "connection": "input",
+    "tag": "geom-Box001-positions"
+  },
+  {
+    "connection": "input",
+    "tag": "geom-Box001-vertices"
+  },
+  {
+    "connection": "input",
+    "tag": "geom-Box001-normals"
+  },
+  {
+    "connection": "input",
+    "tag": "geom-Box001-map1"
+  },
+  {
+    "connection": "input",
+    "tag": "geom-Box001-map2"
+  },
+  {
+    "connection": "instance_light",
+    "tag": "EnvironmentAmbientLight"
+  },
+  {
+    "connection": "instance_geometry",
+    "tag": "geom-Plane001"
+  },
+  {
+    "connection": "instance_material",
+    "tag": "Material__26__Plane001_-material"
+  },
+  {
+    "connection": "instance_geometry",
+    "tag": "geom-Box001"
+  },
+  {
+    "connection": "instance_material",
+    "tag": "Material__25__Box001_-material"
+  },
+  {
+    "connection": "instance_camera",
+    "tag": "PhysCamera001-camera"
+  },
+  {
+    "connection": "instance_visual_scene",
+    "tag": "MaxScene"
+  }
+]

@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{D645CB6C-DB40-44EB-B841-38E3E6A88733}|Default">
+  <MonoDevelop.Ide.ItemProperties.Files PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Files/Program.cs">
+    <Files>
+      <File FileName="Files/Program.cs" Line="91" Column="1" />
+      <File FileName="Files/Descriptor.cs" Line="70" Column="18" />
+      <File FileName="Files/IReader.cs" Line="11" Column="1" />
+      <File FileName="Files/Util.cs" Line="30" Column="10" />
+      <File FileName="Files/File.cs" Line="26" Column="41" />
+      <File FileName="Files/Coordinate.cs" Line="43" Column="1" />
+      <File FileName="Files/Contact.cs" Line="134" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Files" expanded="True">
+            <Node name="Files" expanded="True">
+              <Node name="contentFiles" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
